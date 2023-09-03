@@ -1,0 +1,19 @@
+<root>
+ <MAIN>
+	<NORMAL>main_normal.jpg</NORMAL>
+	<DOWN>main_down.jpg</DOWN>
+	<BASE>main_base.jpg</BASE>
+	<RESCAN>main_rescan.jpg</RESCAN>
+	<MEUNNORMAL>menu_normal.jpg</MEUNNORMAL>
+	<MEUNDOWN>meun_down.jpg</MEUNDOWN>
+ </MAIN>
+ <SETTING>
+	<NORMAL>Setkey_normal.jpg</NORMAL>
+	<DOWN>Setkey_down.jpg</DOWN>
+ </SETTING>
+ <SUCCESS>
+	<NORMAL>Update firmware  done pop_normal.jpg</NORMAL>
+	<OVER>Update firmware  done pop_over.jpg</OVER>
+	<DOWN>Update firmware  done pop_down.jpg</DOWN>
+ </SUCCESS>
+</root>
